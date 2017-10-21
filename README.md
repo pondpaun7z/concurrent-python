@@ -12,6 +12,7 @@
 ```
 git clone https://github.com/pondpaun7z/dak_fap_contest.git
 cd dak_fap_contest
+pip install pygame
 python code/main.js
 ``` 
 
@@ -34,4 +35,6 @@ python code/main.js
 <a href="https://github.com/feelingfree-me">
 <img src="https://avatars2.githubusercontent.com/u/9072070?v=4&s=460" width="50" style="border-radius: 100%" />
 </a>
-
+<a href="https://github.com/meice147">
+<img src="https://avatars0.githubusercontent.com/u/9073117?v=4&s=460" width="50" style="border-radius: 100%" />
+</a>
